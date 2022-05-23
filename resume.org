@@ -31,7 +31,7 @@
 
    December 3rd, 1999
 
-   Sri Lankan
+   British & Sri Lankan
 
 ** Address
    :PROPERTIES:
@@ -87,7 +87,7 @@
 	:HTML_CONTAINER_CLASS: personal-website info-description link
 	:END:
 
-	#+ATTR_HTML: :link http://diamondbond.neocities.org
+	#+ATTR_HTML: :link https://diamondbond.neocities.org
 	diamondbond.neocities.org
 
 ** Public Keys
@@ -201,7 +201,6 @@
   - *Gatsby*
   - *Shell Scripting*
   - *Automation*
-  - *Docker*
 
 * Projects
   :PROPERTIES:
