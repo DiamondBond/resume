@@ -1,6 +1,7 @@
 #+OPTIONS: html-style:nil html-postamble:nil
 #+AUTHOR: index (github.com/diamondbond)
 #+INFOJS_OPT: view:info toc:nil path:./lib/script.js
+#+HTML_HEAD: <link rel="shortcut icon" href="favicon.png"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./lib/style.css" />
 #+EXPORT_FILE_NAME: index.html
 #+TITLE: Diamond Bond's Resume
@@ -195,6 +196,7 @@
   - *Python*
   - *C/C++*
   - *C#*
+  - *.NET*
   - *JS/TS*
   - *React*
   - *Expo*
