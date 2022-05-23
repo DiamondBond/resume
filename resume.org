@@ -126,13 +126,13 @@
   :HTML_CONTAINER_CLASS: timeline
   :END:
 
-# ** Actminds
-# 	 :PROPERTIES:
-# 	 :HTML_CONTAINER_CLASS: timeline-item now
-# 	 :END:
+** AICT
+	 :PROPERTIES:
+	 :HTML_CONTAINER_CLASS: timeline-item now
+	 :END:
 
-# 	 #+ATTR_HTML: :date 2019 - now
-# 	 Full Time Software Engineer
+	 #+ATTR_HTML: :date 2022 - now
+	 SOFTWARE ENGINEERING CERT
 
 ** nomedia
 	 :PROPERTIES:
@@ -224,7 +224,7 @@
   *[[https://courses.edx.org/certificates/e3df6f9f02eb44d5997d2b0a1bd655a5][CS50X]]*
 
   #+ATTR_HTML: :certificate-rank silver :class not-acquired
-  *SAEGIS-FND*
+  *AICT-SOFTENG*
 
   #+ATTR_HTML: :certificate-rank bronze :class not-acquired
-  *IMS-AL/GCSE*
+  *SAEGIS-FND*
