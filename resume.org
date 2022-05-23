@@ -1,9 +1,9 @@
 #+OPTIONS: html-style:nil html-postamble:nil
-#+AUTHOR: index (github.com/b-coimbra)
+#+AUTHOR: index (github.com/diamondbond)
 #+INFOJS_OPT: view:info toc:nil path:./lib/script.js
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./lib/style.css" />
 #+EXPORT_FILE_NAME: index.html
-#+TITLE: Bruno Coimbra's Resume
+#+TITLE: Diamond Bond's Resume
 
 * Header
   :PROPERTIES:
@@ -15,32 +15,32 @@
    :HTML_CONTAINER_CLASS: person-name header-item
    :END:
 
-   Bruno Coimbra
+   Diamond Bond
 
 *** Short description
 	:PROPERTIES:
 	:HTML_CONTAINER_CLASS: short-description
 	:END:
 
-    Jr. Software Engineer
+    Software Engineer
 
-** Birthday/Nacionality
+** Birthday/Nationality
    :PROPERTIES:
    :HTML_CONTAINER_CLASS: header-item birthday-nacionality
    :END:
 
-   August 24th, 1988
+   December 3rd, 1999
 
-   Portuguese - Brazil
+   Sri Lankan
 
 ** Address
    :PROPERTIES:
    :HTML_CONTAINER_CLASS: header-item address
    :END:
 
-   29 South High Street
+   R.A. De Mel Mawatha,
 
-   Yonkers, NY 10701
+   Colombo 03, 00300
 
 * Info
   :PROPERTIES:
@@ -58,8 +58,8 @@
 	:HTML_CONTAINER_CLASS: email info-description link
 	:END:
 
-	#+ATTR_HTML: :link mailto:mail@metaphoric.dev
-	mail@metaphoric.dev
+	#+ATTR_HTML: :link mailto:diamondbond1@gmail.com
+	diamondbond1@gmail.com
 
 *** phone
 	:PROPERTIES:
@@ -67,7 +67,7 @@
 	:END:
 
 	#+ATTR_HTML: :link tel:+1234567890
-	(12) 3456-7890
+	(076) 6644-9994
 
 ** Social
    :PROPERTIES:
@@ -79,16 +79,16 @@
 	:HTML_CONTAINER_CLASS: github info-description link
 	:END:
 
-	#+ATTR_HTML: :link https://github.com/b-coimbra
-	b-coimbra
+	#+ATTR_HTML: :link https://github.com/diamondbond
+	diamondbond
 
 *** github
 	:PROPERTIES:
 	:HTML_CONTAINER_CLASS: personal-website info-description link
 	:END:
 
-	#+ATTR_HTML: :link http://metaphoric.dev
-	metaphoric.dev
+	#+ATTR_HTML: :link http://diamondbond.neocities.org
+	diamondbond.neocities.org
 
 ** Public Keys
    :PROPERTIES:
@@ -100,73 +100,90 @@
 	:HTML_CONTAINER_CLASS: pgp info-description link
 	:END:
 
-	#+ATTR_HTML: :link https://github.com/b-coimbra.gpg
-	*PGP* 0xE1082693
+	#+ATTR_HTML: :link https://github.com/diamondbond.gpg
+	*PGP* 0xC86D8278
 
 *** crypto
     :PROPERTIES:
     :HTML_CONTAINER_CLASS: eth info-description link
     :END:
 
-    #+ATTR_HTML: :link https://pastebin.com/raw/9KM8LSmc
-    *ETH* 0xFC55..C9aB
+    #+ATTR_HTML: :link https://courses.edx.org/certificates/e3df6f9f02eb44d5997d2b0a1bd655a5
+    *CS50X* 0xE3DF..66a5
 
 ** Languages
    :PROPERTIES:
    :HTML_CONTAINER_CLASS: info-item languages
    :END:
 
-   - *PT-BR* native
-   - *EN-US* grade C1
+   - *EN-GB* native
+   - *LK* casual
+   # - *CY* casual
 
 * Timeline
   :PROPERTIES:
   :HTML_CONTAINER_CLASS: timeline
   :END:
 
-** Actminds
-	 :PROPERTIES:
-	 :HTML_CONTAINER_CLASS: timeline-item now
-	 :END:
+# ** Actminds
+# 	 :PROPERTIES:
+# 	 :HTML_CONTAINER_CLASS: timeline-item now
+# 	 :END:
 
-	 #+ATTR_HTML: :date 2019 - now
-	 Full Time Software Engineer
+# 	 #+ATTR_HTML: :date 2019 - now
+# 	 Full Time Software Engineer
 
-** Programmer's Beyond IT
+** nomedia
 	 :PROPERTIES:
 	 :HTML_CONTAINER_CLASS: timeline-item
 	 :END:
 
-	 #+ATTR_HTML: :date 2017 - 2019
-	 Internship
+	 #+ATTR_HTML: :date 2022 - now
+	 PART TIME FULL-STACK DEVELOPER
 
-** Fatec
+** JM Dental Ceramic Studio
+	 :PROPERTIES:
+	 :HTML_CONTAINER_CLASS: timeline-item
+	 :END:
+
+	 #+ATTR_HTML: :date 2021 - 2022
+	 FULL TIME FRONT-END DEVELOPER
+
+** HarvardX
 	 :PROPERTIES:
 	 :HTML_CONTAINER_CLASS: timeline-item education
 	 :END:
 
-	 #+ATTR_HTML: :date 2015 - 2016
-	 Systems Analysis Degree
+	 #+ATTR_HTML: :date 2020 - 2021
+	 CS50X CERT
 
-** Etec
+** Saegis
 	 :PROPERTIES:
-	 :HTML_CONTAINER_CLASS: timeline-item
+	 :HTML_CONTAINER_CLASS: timeline-item education
 	 :END:
 
-	 #+ATTR_HTML: :date 2014 - 2016
-	 Web Development technician cert
+	 #+ATTR_HTML: :date 2019 - 2020
+	 FOUNDATION COURSE IN COMPUTER SCIENCE
+
+** Institute of Maths & Sciences Limassol
+	 :PROPERTIES:
+	 :HTML_CONTAINER_CLASS: timeline-item education
+	 :END:
+
+	 #+ATTR_HTML: :date 2017 - 2019
+	 GCSE & A-LEVEL
 
 * Knowledge
   :PROPERTIES:
   :HTML_CONTAINER_CLASS: knowledge
   :END:
 
-  Junior software developer with 3+ years of professional experience, currently developing solutions with .NET Core and Azure Cloud services.
+  Software developer with 2+ years of professional experience, currently developing solutions with Gatsby/Expo/React/TS/JS and Firebase/Netlify.
   Had a fair share of working with SCRUM for several sprint cycles.
 
   Experience with creating productivity-driven shell utilities and automation tools.
 
-  Delivered a modern integration platform for an investment bank which is the largest source of development financing for Latin America and the Caribbean.
+  Delivered a modern integration platform for a dental studio which is the state of the art CAD/CAM Digital Dental Laboratory situated in Limassol, Cyprus.
 
 * Skills
   :PROPERTIES:
@@ -175,11 +192,15 @@
 
   - *Git*
   - *Linux*
-  - *ASP.NET Core*
-  - *.NET*
+  - *Python*
+  - *C/C++*
+  - *C#*
   - *JS/TS*
-  - *Angular*
+  - *React*
+  - *Expo*
+  - *Gatsby*
   - *Shell Scripting*
+  - *Automation*
   - *Docker*
 
 * Projects
@@ -187,21 +208,22 @@
   :CUSTOM_ID: projects
   :END:
 
-  - *sushi.rb /ruby/ /shell/ /unix/* Simple Unix Shell
-  - *Simp'o'matic /ts/ /bot/ /discord/* Discord bot written in Typescript
-  - *dawn /html/ /css/* Clean looking startpage
-  - *ionic2-foodApp /ionic/ /app/ /ts/* Food app front-end made with ionic2
+  - *[[https://play.google.com/store/apps/details?id=com.jmdcs.app][jmdcs]] /expo/ /app/ /ts/* JM Dental Ceramic Studio app front-end & back-end
+  - *[[https://nomedia.netlify.app][nomedia]] /gatsby/ /js/ /ts/* Clean looking website
+  - *[[https://github.com/DiamondBond/bugzilla][bugzilla]] /c++/ /dos/ /unix/* Minimal bug report tracker
+  - *[[https://github.com/DiamondBond/crypto-api][crypto-api]] /js/ /api/ /crypto/* Crypto API for crypto news
+  - *[[https://github.com/diamondBond/emacs][dotemacs]] /elisp/ /shell/ /unix/* Sensible Emacs Distro
 
 * Certificates
   :PROPERTIES:
   :CUSTOM_ID: certificates
   :END:
 
-   #+ATTR_HTML: :certificate-rank gold
-   *AZ-900*
+  #+ATTR_HTML: :certificate-rank gold
+  *[[https://courses.edx.org/certificates/e3df6f9f02eb44d5997d2b0a1bd655a5][CS50X]]*
 
-   #+ATTR_HTML: :certificate-rank silver :class not-acquired
-   *AZ-200*
+  #+ATTR_HTML: :certificate-rank silver :class not-acquired
+  *SAEGIS-FND*
 
-   #+ATTR_HTML: :certificate-rank bronze :class not-acquired
-   *Exam 70-483*
+  #+ATTR_HTML: :certificate-rank bronze :class not-acquired
+  *IMS-AL/GCSE*
