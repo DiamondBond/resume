@@ -1,10 +1,10 @@
 #+OPTIONS: html-style:nil html-postamble:nil
+#+TITLE: Diamond's Resume
 #+AUTHOR: index (github.com/diamondbond)
 #+INFOJS_OPT: view:info toc:nil path:./lib/script.js
 #+HTML_HEAD: <link rel="shortcut icon" href="favicon.png"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./lib/style.css" />
-#+EXPORT_FILE_NAME: index.html
-#+TITLE: Diamond Bond's Resume
+#+EXPORT_FILE_NAME: resume.html
 
 * Header
   :PROPERTIES:
@@ -213,7 +213,7 @@
   - *[[https://nomedia.netlify.app][nomedia]] /gatsby/ /js/ /ts/* Clean looking website
   - *[[https://github.com/DiamondBond/bugzilla][bugzilla]] /c++/ /dos/ /unix/* Minimal bug report tracker
   - *[[https://github.com/DiamondBond/crypto-api][crypto-api]] /js/ /api/ /crypto/* Crypto API for crypto news
-  - *[[https://github.com/diamondBond/emacs][dotemacs]] /elisp/ /shell/ /unix/* Sensible Emacs Distro
+  - *[[https://diamondbond.neocities.org/emacs.html][dotemacs]] /elisp/ /shell/ /unix/* Sensible Emacs Distro
 
 * Certificates
   :PROPERTIES:
