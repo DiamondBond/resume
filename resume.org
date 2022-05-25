@@ -1,230 +1,230 @@
-#+OPTIONS: html-style:nil html-postamble:nil
 #+TITLE: Diamond's Resume
 #+AUTHOR: index (github.com/diamondbond)
 #+INFOJS_OPT: view:info toc:nil path:./lib/script.js
 #+HTML_HEAD: <link rel="shortcut icon" href="favicon.png"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./lib/style.css" />
 #+EXPORT_FILE_NAME: resume.html
+#+OPTIONS: html-style:nil html-postamble:nil
 
 * Header
-  :PROPERTIES:
-  :HTML_CONTAINER_CLASS: header
-  :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: header
+:END:
 
 ** Name
-   :PROPERTIES:
-   :HTML_CONTAINER_CLASS: person-name header-item
-   :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: person-name header-item
+:END:
 
-   Diamond Bond
+Diamond Bond
 
 *** Short description
-	:PROPERTIES:
-	:HTML_CONTAINER_CLASS: short-description
-	:END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: short-description
+:END:
 
-    Software Engineer
+Software Engineer
 
 ** Birthday/Nationality
-   :PROPERTIES:
-   :HTML_CONTAINER_CLASS: header-item birthday-nacionality
-   :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: header-item birthday-nacionality
+:END:
 
-   December 3rd, 1999
+December 3rd, 1999
 
-   British & Sri Lankan
+British & Sri Lankan
 
 ** Address
-   :PROPERTIES:
-   :HTML_CONTAINER_CLASS: header-item address
-   :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: header-item address
+:END:
 
-   R.A. De Mel Mawatha,
+R.A. De Mel Mawatha,
 
-   Colombo 03, 00300
+Colombo 00300
 
 * Info
-  :PROPERTIES:
-  :HTML_CONTAINER_CLASS: info
-  :HTML_HEADLINE_CLASS: info-title
-  :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: info
+:HTML_HEADLINE_CLASS: info-title
+:END:
 
 ** Contact
-   :PROPERTIES:
-   :HTML_CONTAINER_CLASS: info-item contact
-   :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: info-item contact
+:END:
 
 *** email
-	:PROPERTIES:
-	:HTML_CONTAINER_CLASS: email info-description link
-	:END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: email info-description link
+:END:
 
-	#+ATTR_HTML: :link mailto:diamondbond1@gmail.com
-	diamondbond1@gmail.com
+#+ATTR_HTML: :link mailto:diamondbond1@gmail.com
+diamondbond1@gmail.com
 
 *** phone
-	:PROPERTIES:
-	:HTML_CONTAINER_CLASS: phone info-description link
-	:END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: phone info-description link
+:END:
 
-	#+ATTR_HTML: :link tel:+1234567890
-	(076) 6644-9994
+#+ATTR_HTML: :link tel:+1234567890
+(076) 6644-9994
 
 ** Social
-   :PROPERTIES:
-   :HTML_CONTAINER_CLASS: info-item social
-   :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: info-item social
+:END:
 
 *** github
-	:PROPERTIES:
-	:HTML_CONTAINER_CLASS: github info-description link
-	:END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: github info-description link
+:END:
 
-	#+ATTR_HTML: :link https://github.com/diamondbond
-	diamondbond
+#+ATTR_HTML: :link https://github.com/diamondbond
+diamondbond
 
 *** github
-	:PROPERTIES:
-	:HTML_CONTAINER_CLASS: personal-website info-description link
-	:END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: personal-website info-description link
+:END:
 
-	#+ATTR_HTML: :link https://diamondbond.neocities.org
-	diamondbond.neocities.org
+#+ATTR_HTML: :link https://diamondbond.neocities.org
+diamondbond.neocities.org
 
 ** Public Keys
-   :PROPERTIES:
-   :HTML_CONTAINER_CLASS: info-item public-keys
-   :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: info-item public-keys
+:END:
 
 *** pgp
-	:PROPERTIES:
-	:HTML_CONTAINER_CLASS: pgp info-description link
-	:END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: pgp info-description link
+:END:
 
-	#+ATTR_HTML: :link https://github.com/diamondbond.gpg
-	*PGP* 0xC86D8278
+#+ATTR_HTML: :link https://github.com/diamondbond.gpg
+*PGP* 0xC86D8278
 
 *** crypto
-    :PROPERTIES:
-    :HTML_CONTAINER_CLASS: eth info-description link
-    :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: eth info-description link
+:END:
 
-    #+ATTR_HTML: :link https://courses.edx.org/certificates/e3df6f9f02eb44d5997d2b0a1bd655a5
-    *CS50X* 0xE3DF..66a5
+#+ATTR_HTML: :link https://courses.edx.org/certificates/e3df6f9f02eb44d5997d2b0a1bd655a5
+*CS50X* 0xE3DF..66a5
 
 ** Languages
-   :PROPERTIES:
-   :HTML_CONTAINER_CLASS: info-item languages
-   :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: info-item languages
+:END:
 
-   - *EN-GB* native
-   - *LK* casual
-   # - *CY* casual
+- *EN-GB* native
+- *LK* casual
+  # - *CY* casual
 
 * Timeline
-  :PROPERTIES:
-  :HTML_CONTAINER_CLASS: timeline
-  :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: timeline
+:END:
 
 ** AICT
-	 :PROPERTIES:
-	 :HTML_CONTAINER_CLASS: timeline-item now
-	 :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: timeline-item now
+:END:
 
-	 #+ATTR_HTML: :date 2022 - now
-	 SOFTWARE ENGINEERING CERT
+#+ATTR_HTML: :date 2022 - now
+SOFTWARE ENGINEERING CERT
 
 ** nomedia
-	 :PROPERTIES:
-	 :HTML_CONTAINER_CLASS: timeline-item
-	 :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: timeline-item
+:END:
 
-	 #+ATTR_HTML: :date 2021 - 2022
-	 PART TIME FULL-STACK DEVELOPER
+#+ATTR_HTML: :date 2021 - 2022
+PART TIME FULL-STACK DEVELOPER
 
 ** HarvardX
-	 :PROPERTIES:
-	 :HTML_CONTAINER_CLASS: timeline-item education
-	 :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: timeline-item education
+:END:
 
-	 #+ATTR_HTML: :date 2021 - 2022
-	 CS50X CERT
+#+ATTR_HTML: :date 2021 - 2022
+CS50X CERT
 
 ** JM Dental Ceramic Studio
-	 :PROPERTIES:
-	 :HTML_CONTAINER_CLASS: timeline-item
-	 :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: timeline-item
+:END:
 
-	 #+ATTR_HTML: :date 2020 - 2021
-	 FULL TIME FRONT-END DEVELOPER
+#+ATTR_HTML: :date 2020 - 2021
+FULL TIME FRONT-END DEVELOPER
 
 ** Saegis
-	 :PROPERTIES:
-	 :HTML_CONTAINER_CLASS: timeline-item education
-	 :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: timeline-item education
+:END:
 
-	 #+ATTR_HTML: :date 2019 - 2020
-	 FOUNDATION COURSE IN COMPUTER SCIENCE
+#+ATTR_HTML: :date 2019 - 2020
+FOUNDATION COURSE IN COMPUTER SCIENCE
 
 ** Institute of Maths & Sciences Limassol
-	 :PROPERTIES:
-	 :HTML_CONTAINER_CLASS: timeline-item education
-	 :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: timeline-item education
+:END:
 
-	 #+ATTR_HTML: :date 2017 - 2019
-	 GCSE & A-LEVEL
+#+ATTR_HTML: :date 2017 - 2019
+GCSE & A-LEVEL
 
 * Knowledge
-  :PROPERTIES:
-  :HTML_CONTAINER_CLASS: knowledge
-  :END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: knowledge
+:END:
 
-  Software developer with 2+ years of professional experience, currently developing solutions with Gatsby/Expo/React/TS/JS and Firebase/Netlify.
-  Had a fair share of working with SCRUM for several sprint cycles.
+Software developer with 2+ years of professional experience, currently developing solutions with Gatsby/Expo/React/TS/JS and Firebase/Netlify.
+Had a fair share of working with SCRUM for several sprint cycles.
 
-  Experience with creating productivity-driven shell utilities and automation tools.
+Experience with creating productivity-driven shell utilities and automation tools.
 
-  Delivered a modern integration platform for a dental studio which is the state of the art CAD/CAM Digital Dental Laboratory situated in Limassol, Cyprus.
+Delivered a modern integration platform for a dental studio which is the state of the art CAD/CAM Digital Dental Laboratory situated in Limassol, Cyprus.
 
 * Skills
-  :PROPERTIES:
-  :CUSTOM_ID: skills
-  :END:
+:PROPERTIES:
+:CUSTOM_ID: skills
+:END:
 
-  - *Git*
-  - *Linux*
-  - *Python*
-  - *C/C++*
-  - *C#*
-  - *.NET*
-  - *JS/TS*
-  - *React*
-  - *Expo*
-  - *Gatsby*
-  - *Shell Scripting*
-  - *Automation*
+- *Git*
+- *Linux*
+- *Python*
+- *C/C++*
+- *C#*
+- *.NET*
+- *JS/TS*
+- *React*
+- *Expo*
+- *Gatsby*
+- *Shell Scripting*
+- *Automation*
 
 * Projects
-  :PROPERTIES:
-  :CUSTOM_ID: projects
-  :END:
+:PROPERTIES:
+:CUSTOM_ID: projects
+:END:
 
-  - *[[https://play.google.com/store/apps/details?id=com.jmdcs.app][jmdcs]] /expo/ /app/ /ts/* JM Dental Ceramic Studio app front-end & back-end
-  - *[[https://nomedia.netlify.app][nomedia]] /gatsby/ /js/ /ts/* Clean looking website
-  - *[[https://github.com/DiamondBond/bugzilla][bugzilla]] /c++/ /dos/ /unix/* Minimal bug report tracker
-  - *[[https://github.com/DiamondBond/crypto-api][crypto-api]] /js/ /api/ /crypto/* Crypto API for crypto news
-  - *[[https://diamondbond.neocities.org/emacs.html][dotemacs]] /elisp/ /shell/ /unix/* Sensible Emacs Distro
+- *[[https://play.google.com/store/apps/details?id=com.jmdcs.app][jmdcs]] /expo/ /app/ /ts/* JM Dental Ceramic Studio app front-end & back-end
+- *[[https://nomedia.netlify.app][nomedia]] /gatsby/ /js/ /ts/* Clean looking website
+- *[[https://github.com/DiamondBond/bugzilla][bugzilla]] /c++/ /dos/ /unix/* Minimal bug report tracker
+- *[[https://github.com/DiamondBond/crypto-api][crypto-api]] /js/ /api/ /crypto/* Crypto API for crypto news
+- *[[https://diamondbond.neocities.org/emacs.html][dotemacs]] /elisp/ /shell/ /unix/* Sensible Emacs Distro
 
 * Certificates
-  :PROPERTIES:
-  :CUSTOM_ID: certificates
-  :END:
+:PROPERTIES:
+:CUSTOM_ID: certificates
+:END:
 
-  #+ATTR_HTML: :certificate-rank gold
-  *[[https://courses.edx.org/certificates/e3df6f9f02eb44d5997d2b0a1bd655a5][CS50X]]*
+#+ATTR_HTML: :certificate-rank gold
+*[[https://courses.edx.org/certificates/e3df6f9f02eb44d5997d2b0a1bd655a5][CS50X]]*
 
-  #+ATTR_HTML: :certificate-rank silver :class not-acquired
-  *AICT-SOFTENG*
+#+ATTR_HTML: :certificate-rank silver :class not-acquired
+*AICT-SOFTENG*
 
-  #+ATTR_HTML: :certificate-rank bronze :class not-acquired
-  *SAEGIS-FND*
+#+ATTR_HTML: :certificate-rank bronze :class not-acquired
+*SAEGIS-FND*
