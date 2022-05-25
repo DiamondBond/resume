@@ -89,7 +89,7 @@ diamondbond
 :END:
 
 #+ATTR_HTML: :link https://diamondbond.neocities.org
-diamondbond.neocities.org
+neocities
 
 ** Public Keys
 :PROPERTIES:
