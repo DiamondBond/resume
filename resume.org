@@ -81,15 +81,15 @@ diamondbond1@gmail.com
 :END:
 
 #+ATTR_HTML: :link https://github.com/diamondbond
-diamondbond
+github.com/diamondbond
 
-*** github
+*** personal-website
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: personal-website info-description link
 :END:
 
 #+ATTR_HTML: :link https://diamondbond.neocities.org
-neocities
+diamondbond.neocities.org
 
 ** Public Keys
 :PROPERTIES:
@@ -134,7 +134,7 @@ neocities
 #+ATTR_HTML: :date 2022 - now
 SOFTWARE ENGINEERING CERT
 
-** nomedia
+** Nomedia
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: timeline-item
 :END:
@@ -158,7 +158,7 @@ CS50X CERT
 #+ATTR_HTML: :date 2020 - 2021
 FULL TIME FRONT-END DEVELOPER
 
-** Saegis
+** Saegis :noexport:
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: timeline-item education
 :END:
@@ -166,7 +166,7 @@ FULL TIME FRONT-END DEVELOPER
 #+ATTR_HTML: :date 2019 - 2020
 FOUNDATION COURSE IN COMPUTER SCIENCE
 
-** Institute of Maths & Sciences Limassol
+** Institute of Maths & Sciences Limassol :noexport:
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: timeline-item education
 :END:
@@ -183,6 +183,8 @@ Software developer with 2+ years of professional experience, currently developin
 Had a fair share of working with SCRUM for several sprint cycles.
 
 Experience with creating productivity-driven shell utilities and automation tools.
+
+Extensive real world experience in scaling up systems & web applications.
 
 Delivered a modern integration platform for a dental studio which is the state of the art CAD/CAM Digital Dental Laboratory situated in Limassol, Cyprus.
 
@@ -211,11 +213,10 @@ Delivered a modern integration platform for a dental studio which is the state o
 
 - *[[https://play.google.com/store/apps/details?id=com.jmdcs.app][jmdcs]] /expo/ /app/ /ts/* JM Dental Ceramic Studio app front-end & back-end
 - *[[https://nomedia.netlify.app][nomedia]] /gatsby/ /js/ /ts/* Clean looking website
-- *[[https://github.com/DiamondBond/bugzilla][bugzilla]] /c++/ /dos/ /unix/* Minimal bug report tracker
-- *[[https://github.com/DiamondBond/crypto-api][crypto-api]] /js/ /api/ /crypto/* Crypto API for crypto news
-- *[[https://diamondbond.neocities.org/emacs.html][dotemacs]] /elisp/ /shell/ /unix/* Sensible Emacs Distro
+- *[[https://github.com/DiamondBond/scraper][scraper]] /pyqt5/ /shell/ /python/* LinkedIn Scraper
+- *[[https://diamondbond.neocities.org/emacs.html][emacs]] /elisp/ /shell/ /unix/* Sensible Emacs Distro
 
-* Certificates
+* Certificates :noexport:
 :PROPERTIES:
 :CUSTOM_ID: certificates
 :END:
