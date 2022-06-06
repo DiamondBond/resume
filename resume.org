@@ -214,7 +214,7 @@ Delivered a modern integration platform for a dental studio which is the state o
 - *[[https://play.google.com/store/apps/details?id=com.jmdcs.app][jmdcs]] /expo/ /app/ /ts/* JM Dental Ceramic Studio app
 - *[[https://nomedia.netlify.app][nomedia]] /gatsby/ /js/ /ts/* Clean looking website
 - *[[https://github.com/DiamondBond/scraper][scraper]] /pyqt5/ /shell/ /python/* LinkedIn scraper
-- *[[https://diamondbond.neocities.org/emacs.html][emacs]] /elisp/ /shell/ /unix/* Modern Emacs distro
+- *[[https://diamondbond.neocities.org/emacs.html][emacs]] /elisp/ /shell/ /unix/* Literate Emacs configuration
 
 * Certificates :noexport:
 :PROPERTIES:
