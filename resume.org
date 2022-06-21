@@ -68,7 +68,7 @@ diamondbond1@gmail.com
 :END:
 
 #+ATTR_HTML: :link tel:+1234567890
-(076) 6644-9994
+(076) 644-9994
 
 ** Social
 :PROPERTIES:
