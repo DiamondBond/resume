@@ -126,13 +126,13 @@ diamondbond.neocities.org
 :HTML_CONTAINER_CLASS: timeline
 :END:
 
-** AICT
+** VKonnect
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: timeline-item now
 :END:
 
 #+ATTR_HTML: :date 2022 - now
-SOFTWARE ENGINEERING CERT
+SOFTWARE ENGINEER
 
 ** Nomedia
 :PROPERTIES:
