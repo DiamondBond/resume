@@ -131,7 +131,7 @@ diamondbond.neocities.org
 :HTML_CONTAINER_CLASS: timeline-item now
 :END:
 
-#+ATTR_HTML: :date 2022 - now
+#+ATTR_HTML: :date 2022 - 2022
 REMOTE SOFTWARE ENGINEER
 
 ** Nomedia
