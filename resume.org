@@ -179,7 +179,7 @@ GCSE & A-LEVEL
 :HTML_CONTAINER_CLASS: knowledge
 :END:
 
-Software developer with 2+ years of professional experience, currently developing solutions with Gatsby/Expo/React/TS/JS and Firebase/Netlify.
+Software developer with 3+ years of professional experience, currently developing solutions with Gatsby/Expo/React/TS/JS and Firebase/Netlify.
 Had a fair share of working with SCRUM for several sprint cycles.
 
 Experience with creating productivity-driven shell utilities and automation tools.
