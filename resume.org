@@ -126,9 +126,17 @@ diamondbond.neocities.org
 :HTML_CONTAINER_CLASS: timeline
 :END:
 
-** VKonnect
+** TabletPOS
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: timeline-item now
+:END:
+
+#+ATTR_HTML: :date 2022 - 2023
+FULL TIME FULL-STACK DEVELOPER
+
+** VKonnect
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: timeline-item
 :END:
 
 #+ATTR_HTML: :date 2022 - 2022
@@ -147,7 +155,7 @@ PART TIME FULL-STACK DEVELOPER
 :HTML_CONTAINER_CLASS: timeline-item education
 :END:
 
-#+ATTR_HTML: :date 2021 - 2022
+#+ATTR_HTML: :date 2021 - 2021
 CS50X CERTIFICATION
 
 ** JM Dental Ceramic Studio
