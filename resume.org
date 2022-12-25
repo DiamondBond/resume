@@ -187,16 +187,14 @@ GCSE & A-LEVEL
 :HTML_CONTAINER_CLASS: knowledge
 :END:
 
-Software developer with 3+ years of professional experience, currently developing solutions with Gatsby/Expo/React/TS/JS and Firebase/Netlify.
-Had a fair share of working with SCRUM for several sprint cycles.
+As a software developer with 3+ years of professional experience, I have gained expertise in developing solutions using Gatsby/Expo/React and Firebase/Netlify.
 
-Experience with creating productivity-driven shell utilities and automation tools.
+I have also had the opportunity to work with SCRUM on several sprint cycles.
+In addition to my technical skills, I have experience creating productivity-driven shell utilities and automation tools, as well as scaling up systems and web applications.
 
-Extensive real world experience in scaling up systems & web applications.
+One of my notable achievements includes delivering a modern integration platform for a dental studio, which is a state-of-the-art CAD/CAM Digital Dental Laboratory located in Limassol, Cyprus.
 
-Delivered a modern integration platform for a dental studio which is the state of the art CAD/CAM Digital Dental Laboratory situated in Limassol, Cyprus.
-
-Passion for programming language theory, operating systems, kernel design & compiler theory.
+In my free time, I am passionate about programming language theory, operating systems, kernel design, and compiler theory.
 
 * Skills
 :PROPERTIES:
