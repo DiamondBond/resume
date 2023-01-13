@@ -68,7 +68,7 @@ diamondbond1@gmail.com
 :END:
 
 #+ATTR_HTML: :link tel:+1234567890
-(076) 644-9994
++94766449994
 
 ** Social
 :PROPERTIES:
@@ -206,13 +206,13 @@ I am currently working on implementing a POS system for the leading mobile South
 - *Git*
 - *Linux*
 - *Python*
+- *Lisp*
 - *C/C++*
 - *C#*
 - *.NET*
 - *JS/TS*
 - *React*
 - *Expo*
-- *Gatsby*
 - *Shell Scripting*
 - *Automation*
 
