@@ -134,7 +134,7 @@ diamondbond.neocities.org
 #+ATTR_HTML: :date 2022 - 2023
 FULL TIME FULL-STACK DEVELOPER
 
-** VKonnect
+** VKonnect :noexport:
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: timeline-item
 :END:
@@ -187,14 +187,16 @@ GCSE & A-LEVEL
 :HTML_CONTAINER_CLASS: knowledge
 :END:
 
-As a software developer with 3+ years of professional experience, I have gained expertise in developing solutions using Gatsby/Expo/React and Firebase/Netlify.
+As a software developer with 3+ years of professional experience, I have gained expertise in developing solutions using React/React-Native/Expo/Gatsby and Firebase/Netlify.
 
 I have also had the opportunity to work with SCRUM on several sprint cycles.
 In addition to my technical skills, I have experience creating productivity-driven shell utilities and automation tools, as well as scaling up systems and web applications.
 
+Extensive experience in developing & maintaining OSS developer tooling.
+
 One of my notable achievements includes delivering a modern integration platform for a dental studio, which is a state-of-the-art CAD/CAM Digital Dental Laboratory located in Limassol, Cyprus.
 
-In my free time, I am passionate about programming language theory, operating systems, kernel design, and compiler theory.
+I am currently working on implementing a POS system for the leading mobile South African POS for Hospitality & Retail Industries corporation.
 
 * Skills
 :PROPERTIES:
