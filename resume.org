@@ -190,9 +190,7 @@ GCSE & A-LEVEL
 As a software developer with 3+ years of professional experience, I have gained expertise in developing solutions using React/React-Native/Expo/Gatsby and Firebase/Netlify.
 
 I have also had the opportunity to work with SCRUM on several sprint cycles.
-In addition to my technical skills, I have experience creating productivity-driven shell utilities and automation tools, as well as scaling up systems and web applications.
-
-Extensive experience in developing & maintaining OSS developer tooling.
+In addition to my technical skills, I have experience creating productivity-driven shell utilities and automation tools, as well as scaling up systems and web applications. I also have extensive experience in developing & maintaining OSS developer tooling.
 
 One of my notable achievements includes delivering a modern integration platform for a dental studio, which is a state-of-the-art CAD/CAM Digital Dental Laboratory located in Limassol, Cyprus.
 
