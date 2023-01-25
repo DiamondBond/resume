@@ -67,7 +67,7 @@ diamondbond1@gmail.com
 :HTML_CONTAINER_CLASS: phone info-description link
 :END:
 
-#+ATTR_HTML: :link tel:+1234567890
+#+ATTR_HTML: :link tel:+94766449994
 +94766449994
 
 ** Social
