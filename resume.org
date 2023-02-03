@@ -187,7 +187,7 @@ GCSE & A-LEVEL
 :HTML_CONTAINER_CLASS: knowledge
 :END:
 
-As a software developer with 3+ years of professional experience, I have gained expertise in developing solutions using React/React-Native/Expo/Gatsby and Firebase/Netlify.
+As a software developer with 3+ years of professional experience, I have gained expertise in developing solutions using React/Expo/Firebase and Gatsby/Netlify.
 
 I have also had the opportunity to work with SCRUM on several sprint cycles.
 In addition to my technical skills, I have experience creating productivity-driven shell utilities and automation tools, as well as scaling up systems and web applications. I also have extensive experience in developing & maintaining OSS developer tooling.
